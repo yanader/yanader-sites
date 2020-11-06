@@ -1,10 +1,9 @@
-<!doctype html>
 
 <html lang="en">
 <head>
   <meta charset="utf-8">
 
-  <title>Project Runway Season Order</title>
+
   <meta name="description" content="PRSO">
   <meta name="author" content="SB">
 </head>
